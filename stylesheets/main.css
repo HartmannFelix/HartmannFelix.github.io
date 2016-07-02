@@ -1,0 +1,95 @@
+#site-title {
+    font-family: "PT Sans", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+
+body,
+h1,
+h2,
+h3,
+h4 {
+	font-family: "PT Sans", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+
+a {
+	font-family: "PT Sans", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+
+.footer {
+	font-family: "PT Sans", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+
+.widget-title {
+  font-weight: bold;
+  font-family: "PT Sans", "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  padding: 10px;
+  background-color: #E8E8E8;
+  text-transform: uppercase;
+}
+
+.widget-text {
+  padding: 10px;
+  font-family: "PT Sans", "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  background-color: #FCFCFC;
+}    
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: black;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+#topWhiteBar {
+  border-top: 35px solid white;
+}
+
+
+body {
+        padding-top: 0px;
+        padding-bottom: 0px;
+      }
+.in.collapse+a.btn.showdetails:before
+{
+    content:'Abstract «';
+}
+.collapse+a.btn.showdetails:before
+{
+    content:'Abstract »';
+}
+
+.btn-link,
+.btn-link:hover,
+.btn-link:focus {
+  color: black;
+}
+
+
+.rotate270 {
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+.container{
+  padding-left: 50px
+}
+
+hr{
+  border-top: 1px solid #E8E8E8;
+}
+
+
