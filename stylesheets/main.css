@@ -27,30 +27,30 @@ a {
 
 .widget-title {
   font-weight: bold;
-    font-family: "Lato", sans-serif;
+  font-family: "Lato", sans-serif;
   padding: 10px;
-  background-color: #E8E8E8;
+  font-weight: 100;
   text-transform: uppercase;
 }
 
 .widget-text {
   padding: 10px;
     font-family: "Lato", sans-serif;
-  background-color: #FCFCFC;
+    font-weight: 100;
 }    
 
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
-    background-color: black;
+    background-color: blue;
 }
 
 /* unvisited link */
 a:link {
-    color: black;
+    color: blue;
 }
 
 /* visited link */
 a:visited {
-    color: black;
+    color: blue;
 }
 
 #topWhiteBar {
@@ -58,24 +58,7 @@ a:visited {
 }
 
 
-body {
-        padding-top: 0px;
-        padding-bottom: 0px;
-      }
-.in.collapse+a.btn.showdetails:before
-{
-    content:'Abstract «';
-}
-.collapse+a.btn.showdetails:before
-{
-    content:'Abstract »';
-}
 
-.btn-link,
-.btn-link:hover,
-.btn-link:focus {
-  color: black;
-}
 
 
 .rotate270 {
