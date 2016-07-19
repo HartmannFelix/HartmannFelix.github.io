@@ -1,5 +1,5 @@
 #site-title {
-    font-family: "Titillium", "Lato",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    font-family: "Oswald", "Lato",Arial,Helvetica,"Nimbus Sans L",sans-serif;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     text-align: left;
@@ -12,20 +12,20 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Lato", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+  font-family: "Lato",sans-serif;
 }
 
 a {
-  font-family: "PT Sans", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+  font-family: "Lato",sans-serif;
 }
 
 .footer {
-  font-family: "PT Sans", "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+  font-family: "Lato",sans-serif;
 }
 
 .widget-title {
   font-weight: bold;
-  font-family: "PT Sans", "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  font-family: "Lato",sans-serif;
   padding: 10px;
   background-color: #E8E8E8;
   text-transform: uppercase;
@@ -33,22 +33,22 @@ a {
 
 .widget-text {
   padding: 10px;
-  font-family: "Lato", "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+  font-family: "Lato",sans-serif;
   background-color: #FCFCFC;
 }    
 
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
-    background-color: black;
+    background-color: blue;
 }
 
 /* unvisited link */
 a:link {
-    color: black;
+    color: blue;
 }
 
 /* visited link */
 a:visited {
-    color: black;
+    color: blue;
 }
 
 #topWhiteBar {
