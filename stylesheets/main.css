@@ -1,5 +1,5 @@
 #site-title {
-    font-family: "Oswald", "Lato",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+    font-family: "Oswald", "Lato",sans-serif;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     text-align: left;
@@ -27,14 +27,14 @@ a {
   font-weight: bold;
   font-family: "Lato",sans-serif;
   padding: 10px;
-  background-color: #E8E8E8;
+  background-color: #FFFFFF;
   text-transform: uppercase;
 }
 
 .widget-text {
   padding: 10px;
   font-family: "Lato",sans-serif;
-  background-color: #FCFCFC;
+  background-color: #FFFFFF;
 }    
 
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
