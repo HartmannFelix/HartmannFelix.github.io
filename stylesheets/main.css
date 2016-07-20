@@ -27,14 +27,14 @@ a {
   font-weight: bold;
   font-family: "Lato",sans-serif;
   padding: 10px;
-  background-color: ##FFFFFF;
+  background-color: #f9f9f9;
   text-transform: uppercase;
 }
 
 .widget-text {
   padding: 10px;
   font-family: "Lato",sans-serif;
-  background-color: #FFFFFF;
+  background-color: #f9f9f9;
 }    
 
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
@@ -43,12 +43,12 @@ a {
 
 /* unvisited link */
 a:link {
-    color: blue;
+    color: #5bc0de;
 }
 
 /* visited link */
 a:visited {
-    color: blue;
+    color: #5bc0de;
 }
 
 #topWhiteBar {
