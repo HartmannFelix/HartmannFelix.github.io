@@ -18,7 +18,7 @@ h2 {
 font-weight: bold;
   font-family: "Lato",sans-serif,color: #4d4d4d;
   padding: 10px;
-  background-color: #fffa8d;
+  background-color: #f9f9f9;
   text-transform: uppercase;
 }
 
@@ -35,7 +35,7 @@ a {
   font-weight: bold;
   font-family: "Lato",sans-serif,color: #4d4d4d;
   padding: 10px;
-  background-color: #f9f9f9;
+  background-color: #fffa8d;
 }
 
 .widget-text {
