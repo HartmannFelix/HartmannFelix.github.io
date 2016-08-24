@@ -1,5 +1,6 @@
 #site-title {
     font-family:"Lato",sans-serif;
+    font-weight: 400;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     text-align: left;
@@ -12,6 +13,7 @@ h1,
 h3,
 h4 {
   font-family: "Lato",sans-serif;
+  font-weight: 400;
 }
 
 h4 {
@@ -32,6 +34,7 @@ a {
 .widget-title {
   font-weight: bold;
   font-family: "Lato",sans-serif,color: #4d4d4d;
+  font-weight: 400;
   padding: 10px;
   left: 50px;
   background-color: #e7dfc3;
