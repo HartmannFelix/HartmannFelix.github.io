@@ -43,6 +43,7 @@ a {
 .widget-text {
   padding: 10px;
   font-family: "Lato",sans-serif;
+  font-weight: 400;
   background-color: #f9f9f9;
 }    
 
