@@ -10,16 +10,18 @@
 
 body,
 h1,
-h3,
-h4 {
+h3 {
   font-family: "Lato",sans-serif;
   font-weight: 400;
 }
 
 h4 {
-font-weight: bold;
-  font-family: "Lato",sans-serif,color: #4d4d4d;
-  padding: 10px;
+	font-family: Lato;
+	font-size: 23px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: bold;
+	line-height: 20px;
 }
 
 
