@@ -16,10 +16,11 @@ h3 {
 }
 
 h4 {
-  font-family: "Lato",sans-serif,color: #A41034;
-  font-size: 24px;
-  font-weight: 200;
-  padding: 10px;
+    font-family: "Lato",sans-serif;
+    color: #A41034;
+    font-size: 24px;
+    font-weight: 200;
+    padding: 10px;
 }
 
 
