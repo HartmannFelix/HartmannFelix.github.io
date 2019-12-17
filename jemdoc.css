@@ -372,3 +372,6 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
+img-circle {
+    border-radius: 50%;
+}
