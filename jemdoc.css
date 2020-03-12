@@ -1,5 +1,7 @@
 /* Default css file for jemdoc. */
 
+
+
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -8,12 +10,14 @@ table#tlayout {
 
 body {
     background: #ffffff;
-    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-family: proxima-nova;
+    src:url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
     margin: 0;
     padding-top: 1em;
     padding-bottom: 13px;
     font-size: 13px;
-    max-width: 800px;
+    font-weight:400;
+    font-style:normal;
     line-height:1.4;
     color=#444;
     padding:0 10px
