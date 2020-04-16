@@ -11,14 +11,14 @@ body {
     background: #ffffff;
     font-family: 'Roboto', sans-serif;
     src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2) format('woff2');
-    font-weight: 400;
+    font-weight: 300;
     margin: 0;
     padding-top: 1em;
     padding-bottom: 13px;
     font-size: 13px;
     max-width: 800px;
     line-height:1.4;
-    color=#444;
+    color=#A9A9A9;
     padding:0 10px
 }
 
