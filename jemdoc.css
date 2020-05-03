@@ -9,7 +9,7 @@ table#tlayout {
 
 body {
     background: #ffffff;
-    font-family: "Palatino Linotype"; src: url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.eot"); src: url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.woff") format("woff"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.svg#Palatino Linotype") format("svg"); 
+    font-family: "Palatino Linotype", serif; src: url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.eot"); src: url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.woff") format("woff"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6a0482275e06b01d85575eb3b9894566.svg#Palatino Linotype") format("svg"); 
     font-size: 13px;
     font-weight: 300;
     margin: 0;
@@ -18,7 +18,7 @@ body {
     max-width: 800px;
     line-height: 1.7;
     color: #444;
-    padding:0 10px
+    padding:10px
 }
 
 #layout-menu {
