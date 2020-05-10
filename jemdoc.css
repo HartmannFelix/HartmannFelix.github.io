@@ -6,12 +6,14 @@ table#tlayout {
     background: #ffffff;
 }
 
-
-
-
 body {
     background: #ffffff;
-    font-family: 'Helvetica Neue', Helvetica, Sans-serif; src="helveticaneue/HelveticaNeue Light.ttf";
+    font-family: 'Helvetica Neue';
+src: url('Helvetica-Neue-webfont.eot');
+src: url('Helvetica-Neue-webfont.eot?#iefix') format('embedded-opentype'),
+     url('Helvetica-Neue-webfont.woff') format('woff'),
+     url('Helvetica-Neue-webfont.ttf') format('truetype'),
+     url('Helvetica-Neue-webfont.svg#Helvetica Neue') format('svg');
     font-size: 12px;
     font-weight: 300;
     margin: 0;
